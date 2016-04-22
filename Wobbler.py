@@ -71,5 +71,5 @@ def find_difining_class(obj,meth_name):
 
 if __name__ == '__main__':
     world = make_world(Wobbler)
-
+    world.mainloop()
 
